@@ -1,0 +1,27 @@
+{
+  "name": "buildpress-wp",
+  "authors": [
+    "Peyman Naeimi <me@piman.ir>"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fontawesome": "^4.2.0",
+    "bootstrap-sass-official": "^3.3.1",
+    "acf": "https://github.com/elliotcondon/acf.git#master",
+    "respimage": "~1.3.0",
+    "mustache": "~1.0.0",
+    "html5shiv": "~3.7.2",
+    "respond": "~1.4.2"
+  },
+  "devDependencies": {
+    "requirejs": "~2.1.11",
+    "almond": "~0.3.0"
+  }
+}
